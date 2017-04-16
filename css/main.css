@@ -550,7 +550,7 @@ textarea.form-control {
     position: relative; }
   .section-body-heading:after {
     content: "";
-    background-image: url(../../images/shape.png);
+    background-image: url(../images/shape.png);
     position: absolute;
     width: 65px;
     top: 60px;
@@ -633,7 +633,7 @@ textarea.form-control {
       width: 241px;
       height: 36px;
       position: relative;
-      background-image: url(../../images/vect.png);
+      background-image: url(../images/vect.png);
       background-repeat: no-repeat;
       background-position: 94%; }
     .section-footer.footer ::-webkit-input-placeholder {
@@ -796,4 +796,4 @@ textarea.form-control {
   background-color: #eef1ec; }
 
 .background-download {
-  background-image: url(../../images/download_background.png); }
+  background-image: url(../images/download_background.png); }

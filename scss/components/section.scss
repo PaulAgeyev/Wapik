@@ -81,7 +81,7 @@ $navbar-breakpoint:    768px;
 	}
         &-heading:after {
             content: "";
-            background-image: url(../../images/shape.png);
+            background-image: url(../images/shape.png);
             position: absolute;
          
             width: 65px;
@@ -192,7 +192,7 @@ $navbar-breakpoint:    768px;
                 width: 241px;
                 height: 36px;
                 position: relative;
-                background-image: url(../../images/vect.png);
+                background-image: url(../images/vect.png);
                 background-repeat: no-repeat;
                 background-position: 94%;
             }
